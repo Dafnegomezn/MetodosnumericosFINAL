@@ -5,6 +5,6 @@ Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obt
 -Segundo Parcial: Funciones con matrices, eliminación gaussiana, factorización LU, sistema de ecuaciones de newton-raphson y gauss-seidel.
 -Tercer parcial: Regresión polinomial, interpolación polinomial, método de lagrange, integración numérica y ecuaciones diferenciales-Euler.
 
-Para cada aplicación se podían pensar que se podría utilizar diferentes métodos para la resolución, pero aprendimos las características de cada uno de ellos, diferenciándolos entre sí y sabiendo cuando se utiliza cada uno de ellos. 
+Para cada aplicación se podía pensar que se podría utilizar diferentes métodos para la resolución, pero aprendimos las características de cada uno de ellos, diferenciándolos entre sí y sabiendo cuando se utiliza cada uno, identificando de manera rápida para después aplicar el método. 
 
 
