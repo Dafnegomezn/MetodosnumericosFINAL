@@ -3,9 +3,9 @@ El semestre de Métodos numéricos consisitió en generar diferentes algortimos 
 Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obtuvimos un certificado de Python, los cuales nos ayudaban a obtener de manera más rápida los resultados en lugar de invertir tiempo en hacer los procedimientos a mano, aunque también aprendimos la teoría de cada uno de estos y se resolvieron ejemplos cortos para entender mejor. Los temas en los que se dividió el semestre fueron:
 
 -Primer parcial: 
-[Método de bisección](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Convergencia)
+[Método de bisección]()
 
-[Convergencia y divergencia]()
+[Convergencia y divergencia](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Convergencia)
 Método de newton-raphson
 Método de la falsa posición
 Método del punto fijo y método gráfico.
