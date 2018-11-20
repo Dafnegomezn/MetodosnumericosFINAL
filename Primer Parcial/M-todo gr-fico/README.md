@@ -1,0 +1,1 @@
+El método gráfico consiste
