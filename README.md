@@ -16,15 +16,15 @@ Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obt
 [Método gráfico](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/M-todo%20gr-fico)
 
 -Segundo Parcial: 
-[Funciones con matrices]()
+[Funciones con matrices](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Funciones%20con%20matrices)
 
-[Eliminación gaussiana]()
+[Eliminación gaussiana](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Eliminacion%20Gaussiana)
 
-[Factorización LU]()
+[Factorización LU](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Factorizacion%20LU)
 
-[Sistema de ecuaciones de newton-raphson]()
+[Sistema de ecuaciones de newton-raphson](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Sist.%20Ecuaciones%20Newton-Raphson)
 
-[Gauss-seidel]()
+[Gauss-seidel](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Gauss-Seidel)
 
 -Tercer parcial: 
 [Regresión polinomial]()
