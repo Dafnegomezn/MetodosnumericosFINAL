@@ -27,15 +27,15 @@ Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obt
 [Gauss-seidel](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Segundo%20parcial/Gauss-Seidel)
 
 -Tercer parcial: 
-[Regresión polinomial]()
+[Regresión polinomial](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Tercer%20parcial/Regresion%20polinomial)
 
-[Interpolación polinomial]()
+[Interpolación polinomial](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Tercer%20parcial/Interpolacion%20polinomial)
 
-[Método de lagrange]()
+[Método de lagrange](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Tercer%20parcial/Metodo%20de%20Lagrange)
 
-[Integración numérica]()
+[Integración numérica](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Tercer%20parcial/Integracion%20numerica)
 
-[Ecuaciones diferenciales-Euler]()
+[Ecuaciones diferenciales-Euler](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Tercer%20parcial/Ecuaciones%20diferenciales-Euler)
 
 Para cada aplicación se podía pensar que se podría utilizar diferentes métodos para la resolución, pero aprendimos las características de cada uno de ellos, diferenciándolos entre sí y sabiendo cuando se utiliza cada uno, identificando de manera rápida para después aplicar el método, con sus respectivos códigos. 
 
