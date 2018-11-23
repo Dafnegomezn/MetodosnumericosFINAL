@@ -4,8 +4,11 @@ Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obt
 
 -Primer parcial: 
 [Método de bisección](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Metodo%20de%20bisecci-n)
+
 [Convergencia y divergencia](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Convergencia)
+
 [Método de newton-raphson](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Metodo%20Newton-Raphson)
+
 [Método de la falsa posición](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Metodo%20de%20la%20falsa%20posicion)
 [Método del punto fijo](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/Metodo%20de%20punto%20fijo)
 [Método gráfico](https://github.com/Dafnegomezn/MetodosnumericosFINAL/tree/master/Primer%20Parcial/M-todo%20gr-fico)
