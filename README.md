@@ -1,4 +1,4 @@
-# Métodos numéricos FINAL
+# Métodos numéricos FINAL Dafne Gómez A01229496
 El semestre de Métodos numéricos consisitió en generar diferentes algortimos que nos permitían resolver diversos problemas y aplicaciones de la vida real.
 Para dichos algortimos utilizamos ciertas herramientas como cocalc, Github y obtuvimos un certificado de Python, los cuales nos ayudaban a obtener de manera más rápida los resultados en lugar de invertir tiempo en hacer los procedimientos a mano, aunque también aprendimos la teoría de cada uno de estos y se resolvieron ejemplos cortos para entender mejor. Los temas en los que se dividió el semestre fueron:
 
