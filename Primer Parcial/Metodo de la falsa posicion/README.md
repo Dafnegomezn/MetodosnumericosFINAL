@@ -1,1 +1,1 @@
-El método de la falsa posición
+El método de la falsa posición consiste en generaar ciertos "triángulos semejantes" en una gráfica entre 2 puntos dados, que entre ellos se encuentre un cambio de signo que indique la raíz. Para encontrar ese valor de la raís entre los 2 puntos se utiliza la siguiente fórmula: xr = x0 - (f(x0)(x1-x0))/(f(x1)-f(x0))
