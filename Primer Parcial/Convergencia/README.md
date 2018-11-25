@@ -1,1 +1,1 @@
-kjdkajksnjdnalksca
+La convergencia se refiere a cuando déspues de varias pruebas, se encuentra el valor que se desea y éste se queda fijo en dicha tabulación repitiéndose, mientras que la divergencia se refiere a cuando no se encuentra un valor fijo y siempre dará valores distintos de manera infinita. Se pueden poner límites para el número de pruebas y en el caso de la convergencia se puede contar las iteraciones que se necesitaron para encontrar el valor.
