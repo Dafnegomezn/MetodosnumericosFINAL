@@ -1,1 +1,1 @@
-El método gráfico consiste
+El método gráfico consiste en una función que se quiere graficar para saber por cual valor pasa en el eje de las x. Para esto se realiza una tabulación de distintos valores que nos den el valor deseado, en donde "y" sea 0, y graficarlos. 
