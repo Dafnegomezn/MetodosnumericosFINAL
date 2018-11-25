@@ -1,1 +1,1 @@
-Eliminación Gaussiana
+Eliminación Gaussiana es un sistema de ecuaciones en donde se buscan los valores finales de x. Se otorga un sistema de ecuaciones, en el cual se realizan ciertas operaciones como: intercambiar filas y columnas, sumar y restar coeficientes y multiplicar alguna ecuación, que me ayuden a formar un "triángulos de 0's en la parte inferior izquierda del sistema de ecuaciones en el que hasta el final me quede una incógnita igualada directamente a su valor para finalmente obtener los valores faltantes. 
