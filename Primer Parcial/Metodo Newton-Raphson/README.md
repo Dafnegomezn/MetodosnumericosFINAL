@@ -1,1 +1,1 @@
-El metodo de Newton-Raphson
+El método de Newton-Raphson consiste en que de una respectiva función se saca la derivada de la misma, que representaría la pendiente de la gráfica con la cual se utiliza la fórmula de f'(x0)=(f(x0))/(x0-xr). Se otorga un valor x, y para encontrar el otro se utiliza la fórmula xr=x0-(f(x0)/f'(x0))
