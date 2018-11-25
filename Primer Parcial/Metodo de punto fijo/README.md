@@ -1,1 +1,1 @@
-El método de punto fijo consiste
+El método de punto fijo consiste en una función con un valor inicial de x(0). En dicha función se despeja la X para calcular el valor de x1, esto es hasta que la función f(x) se acerque a 0. En este método un contra es que no hay garantía de que coverja o diverja. 
