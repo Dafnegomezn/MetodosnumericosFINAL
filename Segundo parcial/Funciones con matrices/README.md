@@ -1,1 +1,3 @@
-Funciones con matrices
+Se pueden realizar diferentes operaciones con matrices como sumas, restas, multiplicación, matriz traspuesta, adjunta, determinantes e inversas.
+En las multiplicaciones el número de datos de las filas debe de ser igual al de las columnas para poder multiplicar. El determinante de una matriz se obtiene [A] = (-1)^(i+j) aij Dij
+La adjunta (adj) es cuando las filas de la matriz son intercambiadas por columnas, y la matriz traspuesta(A^T) es cuando se saca el determinante de cada valor de la matriz, formando otra matriz con los resultados en su lugar correspondiente, ambas operaciones se utilizan para sacar la inversa de esta manera A^(-1) = 1/[A] adj(A^T)
